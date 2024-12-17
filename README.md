@@ -1,4 +1,3 @@
-# Casino
 <p align="center">
   <img src="resources/img/misc/win5x_logo_black.png" alt="Win5X Logo">
 </p>
